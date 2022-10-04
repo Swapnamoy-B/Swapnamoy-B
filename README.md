@@ -6,10 +6,10 @@
 - 🥅 2022 Goals: Learn more about new technologies
 - ⚡ Fun fact: I like to code and play chess and cricket
 
-### Connect with me:
+### Connect with me
 
-[![website](./img/globe-light.svg)](https://Swapnamoy-B.github.io/CV/gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://Swapnamoy-B.github.io/CV/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.swapnamoy-b.github.io/CV/gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.swapnamoy-b.github.io/CV/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-dark-mode-only)
