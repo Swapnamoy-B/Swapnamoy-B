@@ -8,8 +8,8 @@
 
 ### Connect with me
 
-[![website](/img/globe.png)](https://swapnamoy-b.github.io/CV/#gh-light-mode-only)
-[![website](/img/globe.png)](https://swapnamoy-b.github.io/CV/#gh-dark-mode-only)
+[![website](./img/globe.png)](https://swapnamoy-b.github.io/CV/#gh-light-mode-only)
+[![website](./img/globe.png)](https://swapnamoy-b.github.io/CV/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-dark-mode-only)
