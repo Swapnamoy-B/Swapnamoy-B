@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-[![website](./img/globe.png size="26px")](https://swapnamoy-b.github.io/CV/#gh-light-mode-only)
+[![website](./img/globe.png width="26px")](https://swapnamoy-b.github.io/CV/#gh-light-mode-only)
 [![website](./img/globe.png)](https://swapnamoy-b.github.io/CV/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-light-mode-only)
