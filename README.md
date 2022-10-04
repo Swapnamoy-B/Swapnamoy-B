@@ -11,8 +11,8 @@
 [![website](./img/globe-light.svg)](https://swapnamoy-b.github.io/CV/gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://swapnamoy-b.github.io/CV/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/facebook-light.svg)](https://www.facebook.com/swapnomoy.bhattacharjee.5#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/swapnomoy.bhattacharjee.5#gh-dark-mode-only)
