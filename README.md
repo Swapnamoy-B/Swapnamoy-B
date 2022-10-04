@@ -39,3 +39,6 @@
 
 ---
 
+![Swapnamoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swapnamoy-B&&count_private=true&show_icons=true&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnamoy-B&langs_count=8&layout=compact&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true)
+
