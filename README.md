@@ -14,8 +14,8 @@
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/swapnamoy-bhattacharjee-36412b23b#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![facebook](./img/facebook-light.svg)](https://www.facebook.com/swapnomoy.bhattacharjee.5#gh-light-mode-only)
-[![facebook](./img/facebook-dark.svg)](https://www.facebook.com/swapnomoy.bhattacharjee.5#gh-dark-mode-only)
+[![facebook](./img/icons8-facebook.svg)](https://www.facebook.com/swapnomoy.bhattacharjee.5#gh-light-mode-only)
+[![facebook](./img/icons8-facebook.svg)](https://www.facebook.com/swapnomoy.bhattacharjee.5#gh-dark-mode-only)
 
 ### Languages and Tools I use:
 
