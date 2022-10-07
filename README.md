@@ -1,6 +1,6 @@
 <p float="center">
 <img src="img/github-cat.gif" width="100" />
-<img src="img/welcome.gif" width="100%" />
+<img src="img/welcome.gif" width="60%" />
 <img src="img/github-cat.gif" width="100" />
 </p>
 
