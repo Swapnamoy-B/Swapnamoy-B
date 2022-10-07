@@ -1,9 +1,9 @@
 <div align="left">
-<img src="img/github-cat.gif" width="60" display:inline></h2>
+<img src="img/github-cat.gif" width="60" position:relative></h2>
 </div>
 
 <div align="right">
-<img src="img/github-cat.gif" width="60" display:inline></h2>
+<img src="img/github-cat.gif" width="60" position:relative></h2>
 </div>
 
 <div align="center">
