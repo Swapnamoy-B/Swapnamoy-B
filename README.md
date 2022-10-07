@@ -1,5 +1,5 @@
 <div align="left">
-<img src="img/github-cat.gif" width="60" position:"in-line"></h2>
+<img src="img/github-cat.gif" width="60" display:"in-line"></h2>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="right">
-<img src="img/github-cat.gif" width="60" position:"in-line"></h2>
+<img src="img/github-cat.gif" width="60" display:"in-line"></h2>
 </div>
 
 <div align="left">
