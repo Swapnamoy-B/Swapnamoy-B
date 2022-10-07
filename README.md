@@ -1,13 +1,13 @@
 <div align="left">
-<img src="img/github-cat.gif" width="60"></h2>
+<img src="img/github-cat.gif" width="60" position:"in-line"></h2>
 </div>
 
-<div align="left">
-<img src="img/welcome.gif" width="60"></h2>
+<div align="center">
+<img src="img/welcome.gif" width="120"></h2>
 </div>
 
 <div align="right">
-<img src="img/github-cat.gif" width="60"></h2>
+<img src="img/github-cat.gif" width="60" position:"in-line"></h2>
 </div>
 
 <div align="left">
