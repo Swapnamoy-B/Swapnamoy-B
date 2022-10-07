@@ -1,5 +1,5 @@
-<div align="left">
-<img src="img/github-cat.gif" width="30"></h2>
+<div align="center">
+<img src="img/github-cat.gif" width="60"></h2>
 </div>
 
 <div align="left">
