@@ -1,4 +1,6 @@
-# Hi there, I'm Swapnamoy - aka [Swapnamoy-B] 👋 
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I'm Swapnamoy - aka [Swapnamoy-B] <img src="img/Hi.gif" width="30"></h2>
+</div>
 
 ## I'm a Student!!
 
